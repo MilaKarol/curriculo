@@ -14,7 +14,11 @@ O projeto de currículo foi realizado de forma interdisciplinar, composto pelas 
 ## 📄 Descrição do projeto
 
 
-Curriculo criado durante as aulas de Lingua Portuguesa. Nessas aulas, a professora trabalhou o currículo como gênero textual. Depois disso, nós realizamos uma atividade na disciplina de Interioridades, onde fomos estimulados a identificar nossas Hard e Soft Skills.
+Curriculo criado durante as aulas de Lingua Portuguesa. Nessas aulas, a professora trabalhou o currículo como gênero textual. Depois disso, nós realizamos uma atividade na disciplina de Interioridades, onde fomos estimulados a identificar nossas Hard e Soft Skills.<br>
+
+Essa atividade passada pelo professor foi algo fundamental, de extrema importância pois aprender a criar um currículo será algo útil para a vida inteira.<br>
+
+Nessa tarefa colocamos todas as informações pessoais como dados pessoais, objetivos, habilidades e competências, experiências, educação, comunicaçâo e liderança.<br>
 
 ## 🔧 Tecnologias, ferramentas, e linguagens usadas
 
