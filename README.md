@@ -47,5 +47,7 @@ As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, s�
  Participativa
 ```
 ### ✒️ Referências de consulta
+```
 Alura - Como escrever um README incrível no seu Github
 lohhans - Um modelo para fazer um bom README
+```
