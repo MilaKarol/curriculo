@@ -20,43 +20,29 @@ Essa atividade passada pelo professor foi algo fundamental, de extrema importân
 
 Nessa tarefa colocamos todas as informações pessoais como dados pessoais, objetivos, habilidades e competências, experiências, educação, comunicaçâo e liderança.<br>
 
-## 🔧 Tecnologias, ferramentas, e linguagens usadas
-
-* VSCODE
-
-* html
-
-* css
-
-* img
-
-* head
-
-* GITHUB
-
-* git clone
-
-* git add .
-
-* git commit -m ""
-
-* git push
-
-* git status
-
-### 🎁Hard e Soft Skills
-
+## 🛠️ Tecnologias  
+```
+ HTML5
+ CSS3
+```
+### 🔧 Ferramentas
+```
+    VSCODE
+    GitHub
+```
+### 📁 linguagens usadas
+```
+ git clone
+ git add .
+ git commit -m ""
+ git push
+ git status
+```
+### 🎁 Hard e Soft Skills
 As minhas Hard e Soft Skills, identificadas durante a aula de Interioridades, são:
-
-* Educada
-
-* Comunicativa
-
-* Trabalho em equipe
-
-* Participativa
-
-* Proativa
- 
-
- 
+ ```
+ Educada
+ Comunicativa
+ Trabalho em equipe
+ Participativa
+```
